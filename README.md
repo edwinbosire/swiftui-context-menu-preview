@@ -7,6 +7,10 @@ Here’s a sample README for your project based on your description:
 This repository demonstrates an experimental SwiftUI implementation of context menus with previews.  
 It showcases how to leverage the `contextMenu` modifier in SwiftUI to present rich, interactive previews when users long-press or right-click on UI elements.
 
+| Video | Normal | Context Menu |
+|-------|--------|--------------|
+| <img width="400" height="870" alt="video" src="https://github.com/user-attachments/assets/e2ac60f9-c220-4a58-b414-ac035df8d319" /> | <img width="400" height="870" alt="context_menu_1" src="https://github.com/user-attachments/assets/30b7a808-4402-4638-8e54-29bb18d60f32" /> | <img width="400" height="870" alt="image" src="https://github.com/user-attachments/assets/50005fd5-518f-420c-82f9-48eba42bbccd" /> |
+
 ## Features
 
 - **SwiftUI-based**: Pure SwiftUI experiment, no UIKit required.
@@ -41,11 +45,8 @@ YourView()
     }
 ```
 
-## Screenshots
+## License!()
 
-*(Add screenshots or GIFs here to showcase your context menus with previews.)*
-
-## License
 
 MIT License. See [LICENSE](LICENSE) for details.
 
